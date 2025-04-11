@@ -70,11 +70,3 @@ The dataset includes employee demographics, job roles, satisfaction levels, perf
 - Explore deep learning models for enhanced performance.
 - Develop an interactive dashboard for real-time attrition monitoring.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For any queries or suggestions, feel free to reach out:
-- **Email:** DivyaKodanganti@my.unt.edu
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
