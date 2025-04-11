@@ -1,7 +1,5 @@
 # Predicting-Employee-Attrition-Using-HR-Analytics
 
-# Predicting-Employee-Attrition-Using-HR-Analytics
-
 ## Overview
 This project leverages machine learning and HR analytics to predict employee attrition, enabling organizations to identify key risk factors and take proactive measures to retain valuable talent. Using advanced data preprocessing and modeling techniques, the project demonstrates how predictive analytics can drive better workforce management decisions.
 
